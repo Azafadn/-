@@ -1,3 +1,4 @@
+{
 "name": "Floating Gardens",
 		"replaces": "Water Mill",
 		"uniqueTo": "Aztecs",
@@ -8,3 +9,4 @@
 		"maintenance": 1,
 		"percentStatBonus": {"food": 15},
 		"requiredTech": "The Wheel"
+}
